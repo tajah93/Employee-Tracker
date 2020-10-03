@@ -10,7 +10,7 @@ This application is meant to track employee data by allowing the user to view, a
 > Run tracker.sql and seeds.sql
  ## Usage ##
  
- Run >node tracker.js in the terminal.
+ Run node tracker.js in the terminal.
  
  Select from options.
  
