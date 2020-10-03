@@ -14,11 +14,11 @@ This application is meant to track employee data by allowing the user to view, a
  
  Select from options.
  
- ![ScreenShot](https://raw.github.com/tajah93/employee-tracker/master/select.png) 
+ ![ScreenShot](https://raw.github.com/tajah93/employee-tracker/master/table.png) 
  
  
  View final tables. 
  
- ![ScreenShot](https://raw.github.com/tajah93/employee-tracker/master/table.png) 
+ ![ScreenShot](https://raw.github.com/tajah93/employee-tracker/master/select.png) 
  
  
